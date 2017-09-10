@@ -10,6 +10,6 @@ function removeFromPlaylist(playlist, artistName)
 {
   playlist(artistName) = "undefined";
 
-  return playlist; 
+  return playlist;
 
 }
