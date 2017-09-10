@@ -1,4 +1,4 @@
-var playist =  new Object();
+var playist =  new Object({artistName: songTitle});
 
 function updatePlaylist(playlist, artistName, songTitle)
 {
